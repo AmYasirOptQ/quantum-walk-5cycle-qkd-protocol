@@ -64,7 +64,7 @@ Optionally, a LaTeX installation can be used for high-quality plot labels. If La
 Run the main simulation script:
 
 ```bash
-python quantum_walk_simulations.py
+python QKD_QWalk_5cycle.py
 ```
 
 The script contains three independent simulation blocks, each of which can be executed separately to reproduce the corresponding numerical results.
